@@ -1,0 +1,3 @@
+geo_location/*.env
+geo_location/entorno
+whois_enumeration/entorno
