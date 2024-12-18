@@ -2,3 +2,4 @@ geo_location/*.env
 geo_location/entorno
 whois_enumeration/entorno
 phone_location/entorno
+image/entorno
